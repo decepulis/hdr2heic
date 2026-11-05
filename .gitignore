@@ -1,0 +1,5 @@
+/hdr2heic
+*.tif
+*.tiff
+*.heic
+.DS_Store
